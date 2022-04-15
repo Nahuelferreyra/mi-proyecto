@@ -1,0 +1,16 @@
+h1{
+	color: white;
+	text-align: center;
+	background: grey;
+	font-size: 50px;
+	}
+p{
+	float: left;
+}
+ul{
+	color:black;
+	float:center;
+	font-size:30px;
+	background: green;
+	border-color: orange;
+}
